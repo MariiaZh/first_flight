@@ -1,0 +1,22 @@
+.wrapper {
+    min-width: 800px;
+    min-height: 800px;
+    background-image: url(../img/gagarin_mask.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+input {
+    position: relative;
+    left: 990px;
+    top: 90px;
+    width: 220px;
+    height: 100px;
+    background-color: rgb(196, 35, 35);
+    color: white;
+    border: none;
+    border-radius: 25px;
+    font-size: xx-large;
+    transform: rotate(-15deg);
+}
+
